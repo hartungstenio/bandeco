@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<widget network="public private">
+  <widgetname>Bandeco FT</widgetname>
+  <width>250</width>
+  <height>320</height>
+  
+  <author>
+    <name>Christian Hartung</name>
+    <organization>FT -Faculdade de Tecnologia da UNICAMP</organization>
+    <email>christian.s77@gmail.com</email>
+    <link>http://my.opera.com/chrishartung</link>
+  </author>
+
+  <description>Cardápio do Restaurante Universitário da FT/COTIL</description>
+
+  <icon width="64" height="64">images/ft64x64.png</icon>
+  <icon width="48" height="48">images/ft48x48.png</icon>
+  <icon width="32" height="32">images/ft32x32.png</icon>
+  <icon width="16" height="16">images/ft16x16.png</icon>
+
+  <id>
+    <host>http://widgets.opera.com</host>
+    <name>Bandeco FT</name>
+    <revised>2010-02</revised>
+  </id>
+
+  <security>
+    <access>
+      <protocol>http</protocol>
+      <host>pfl.unicamp.br</host>
+      <host>www.pfl.unicamp.br</host>
+    </access>
+  </security>
+</widget>
