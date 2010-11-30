@@ -1,7 +1,3 @@
-/* This script and many more are available free online at
-The JavaScript Source!! http://javascript.internet.com
-Created by: Robert Nyman | http://robertnyman.com/ */
-
 /*
  * Copyright (c) 2010, Christian Hartung
  * All rights reserved.

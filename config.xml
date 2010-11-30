@@ -6,12 +6,12 @@
   
   <author>
     <name>Christian Hartung</name>
-    <organization>FT -Faculdade de Tecnologia da UNICAMP</organization>
-    <email>christian.s77@gmail.com</email>
+    <organization>DirtyCode, Inc</organization>
+    <email>chrishartung@dirtycode.net</email>
     <link>http://my.opera.com/chrishartung</link>
   </author>
 
-  <description>Cardápio do Restaurante Universitário da FT/COTIL</description>
+  <description>Cardapio do Restaurante Universitario da FT/COTIL</description>
 
   <icon width="64" height="64">images/ft64x64.png</icon>
   <icon width="48" height="48">images/ft48x48.png</icon>
@@ -19,9 +19,9 @@
   <icon width="16" height="16">images/ft16x16.png</icon>
 
   <id>
-    <host>http://widgets.opera.com</host>
+    <host>http://dirtycode.net/hartung/opera/bandeco</host>
     <name>Bandeco FT</name>
-    <revised>2010-02</revised>
+    <revised>2010-11</revised>
   </id>
 
   <security>

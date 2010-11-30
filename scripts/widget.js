@@ -91,7 +91,7 @@ window.addEventListener("cardapioOk", function() {
 		Salada.innerHTML = CardapioBandeco.Salada;
 		Sobremesa.innerHTML = CardapioBandeco.Sobremesa;
 
-	       	showMainContent();
+       	showMainContent();
 		
 		widget.showNotification(dateToString(CardapioBandeco.Data) + " - " + periodoToString(CardapioBandeco.Periodo), callUserAttention);
 		}, true);
