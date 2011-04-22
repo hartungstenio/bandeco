@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+		id="http://dirtycode.net/hartung/opera/bandeco"
+		version="3.1"
+		height="320"
+		width="240"
+		viewmodes="windowed">
+	<name short="Bandeco">Bandeco FT</name>
+	
+	<description>Cardapio do Restaurante Universitario da FT/COTIL</description>
+	
+	<author email="chrishartung@dirtycode.net"
+			href="http://my.opera.com/chrishartung">
+		Christian Hartung
+	</author>
+	
+	<license>
+		Copyright (C) 1995-2004 Jean-loup Gailly and Mark Adler
+
+		This software is provided 'as-is', without any express or
+		implied warranty. In no event will the authors be held liable
+		for any damages arising from the use of this software.
+
+		Permission is granted to anyone to use this software for any
+		purpose, including commercial applications, and to alter it and
+		redistribute it freely, subject to the following restrictions:
+
+		  1. The origin of this software must not be misrepresented; you
+		  must not claim that you wrote the original software. If you use
+		  this software in a product, an acknowledgment in the product
+		  documentation would be appreciated but is not required.
+		  
+		  2. Altered source versions must be plainly marked as such, and must
+ 		  not be misrepresented as being the original software.
+		
+		  3. This notice may not be removed or altered from any source
+		  distribution.
+	</license>
+	
+	<icon src="images/ft64x64.png" width="64" height="64"/>
+	<icon src="images/ft48x48.png" width="48" height="48"/>
+	<icon src="images/ft32x32.png" width="32" height="32"/>
+	<icon src="images/ft16x16.png" width="16" height="16"/>
+	
+	<content src="index.html" type="text/html" encoding="UTF-8" />
+
+	<access origin="http://www.pfl.unicamp.br" subdomains="false"/>
+</widget>

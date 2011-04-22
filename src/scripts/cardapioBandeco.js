@@ -84,7 +84,7 @@ var CardapioBandeco = new function() {
 	 */
 	this.refresh = function() {
 		req.open("GET", "http://www.pfl.unicamp.br/cardapio.php", true);
-		req.setRequestHeader("Content-Type", "text/plain; charset=windows-1251");
+		req.setRequestHeader("Content-Type", "text/plain; charset=utf-8");
 		req.send(null);
 	}
 
@@ -162,4 +162,4 @@ var CardapioBandeco = new function() {
 
 	// Inicializa o objeto
 	init();
-} ();;
+} ();
